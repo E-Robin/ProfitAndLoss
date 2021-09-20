@@ -1,0 +1,29 @@
+
+
+
+body{
+    text-align: center;
+    background-color:darkgray
+    }
+    values{
+      padding:0.6rem;
+      display: block;
+      /* margin-bottom:0.5 rem; */
+    }
+    input{
+      margin:0.5rem;
+    }
+  
+    #Quant{
+      margin-left:2rem;
+    }
+  
+    button{
+      
+      margin-bottom: 1rem;
+      background-color:darkolivegreen;
+    }
+
+    
+
+
